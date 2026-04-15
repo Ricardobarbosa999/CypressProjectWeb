@@ -1,0 +1,20 @@
+{
+    "baseUrl": "http://agapito-server.herokuapp.com/",
+    "video": false,
+    "videosFolder": "allure-results",
+    "defaultCommandTimeout": 30000,
+    "requestTimeout": 30000,
+    "watchForFileChanges": true,
+    "chromeWebSecurity": false,
+    "env":{
+        "ENV":"uat",
+        "allureAddVideoOnPass": false
+    },
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "mochawesome-report/json",
+        "overwrite": false,
+        "html": false,
+        "json": true
+        }
+}

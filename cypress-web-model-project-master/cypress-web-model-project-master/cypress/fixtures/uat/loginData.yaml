@@ -1,0 +1,11 @@
+usuario1:
+  login: "batman"
+  full_name: "Bruce Wayne"
+  email: "batman@morcego.com"
+  age: "34"
+
+usuario2:
+  login: "mulhermaravilha"
+  full_name: "Diana Prince"
+  email: "mm@themyscira.com"
+  age: "29"

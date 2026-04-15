@@ -1,0 +1,3 @@
+config:
+  URL_BASE: "https://autoatendimento-qas.comgas.com.br/"
+  timeout: 30000
